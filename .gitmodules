@@ -1,0 +1,3 @@
+[submodule "stockmarket"]
+	path = stockmarket
+	url = https://github.com/Matrix-Guy/stockmarket

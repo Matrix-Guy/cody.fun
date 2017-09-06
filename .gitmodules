@@ -7,7 +7,7 @@
 [submodule "bbs"]
 	path = bbs
 	url = https://github.com/Matrix-Guy/bbs
-[submodule "blackjack"]
+[submodule "projects/blackjack"]
 	path = projects/blackjack
 	url = https://github.com/Matrix-Guy/blackjack
 [submodule "projects/dit"]

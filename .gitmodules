@@ -4,3 +4,6 @@
 [submodule "t348"]
 	path = t348
 	url = https://github.com/Matrix-Guy/t348
+[submodule "bbs"]
+	path = bbs
+	url = https://github.com/Matrix-Guy/bbs

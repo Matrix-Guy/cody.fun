@@ -10,3 +10,6 @@
 [submodule "blackjack"]
 	path = projects/blackjack
 	url = https://github.com/Matrix-Guy/blackjack
+[submodule "projects/dit"]
+	path = projects/dit
+	url = https://github.com/Matrix-Guy/dit

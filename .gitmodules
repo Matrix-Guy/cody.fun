@@ -13,6 +13,3 @@
 [submodule "projects/dit"]
 	path = projects/dit
 	url = https://github.com/Matrix-Guy/dit
-[submodule "learn2program/"]
-	path = learn2program/
-	url = https://github.com/Matrix-Guy/learn2program

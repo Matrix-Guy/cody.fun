@@ -53,6 +53,12 @@ h1 {
   float: left;
 }
 
+h3 {
+  font-size: 4vw;
+  font-family: "Cretino-Regular", serif;
+  float: right;
+}
+
 nav ul {
   list-style: none;
   margin: 0;
@@ -61,4 +67,9 @@ nav ul {
 
 nav li {
   display: inline-block;
+}
+
+li {
+  font-weight: 8vw;
+  font-size: 8vw !important;
 }

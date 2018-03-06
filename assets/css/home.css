@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'HansaGotisch';
+  src: url('../fonts/HansaGotisch.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/HansaGotisch.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/HansaGotisch.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/HansaGotisch.wof') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/HansaGotisch.tff')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/HansaGotisch.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'Cretino-Regular';
+  src: url('../fonts/cretino.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/cretino.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/cretino.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/cretino.wof') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/cretino.tff')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/cretino.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+body {
+  background: #1f2263;
+}
+
+header {
+  background: #d24d4d;
+}
+
+.nav-wrapper {
+  height: 12vw !important;
+}
+
+header::after {
+  clear: both;
+  content: '';
+  display: table;
+}
+
+.navBar {
+  width: 8vw;
+}
+
+nav {
+  float: right;
+}
+
+h1 {
+  color: #4f4f4f;
+  float: left;
+  font-family: "HansaGotisch", serif;
+  font-size: 10vw;
+  margin: 0;
+  float: left;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}

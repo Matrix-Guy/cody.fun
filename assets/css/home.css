@@ -18,33 +18,7 @@
        url('../fonts/cretino.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
-body {
-  background: #1f2263;
-}
-
-header {
-  background: #d24d4d;
-}
-
-.nav-wrapper {
-  height: 12vw !important;
-}
-
-header::after {
-  clear: both;
-  content: '';
-  display: table;
-}
-
-.navBar {
-  width: 8vw;
-}
-
-nav {
-  float: right;
-}
-
-h1 {
+.typeface-hg {
   color: #4f4f4f;
   float: left;
   font-family: "HansaGotisch", serif;
@@ -53,23 +27,12 @@ h1 {
   float: left;
 }
 
-h3 {
+.typeface-cr {
   font-size: 4vw;
   font-family: "Cretino-Regular", serif;
   float: right;
 }
 
-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-nav li {
-  display: inline-block;
-}
-
-li {
-  font-weight: 8vw;
-  font-size: 8vw !important;
+.typeface-ms {
+  font-family: 'Montserrat', sans-serif;
 }

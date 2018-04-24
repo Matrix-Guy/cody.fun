@@ -8,10 +8,9 @@ function counter() {
 }
 
 function add() {
-  let num = $('#num').val();
   let acc = 0;
 
-  for (let i = Number(num); i > 0; i--) {
+  for (let i = Number($('#num').val()); i > 0; i--) {
     acc += i;
   }
   $('#result2').append(`${acc} <br />`)

@@ -24,6 +24,34 @@
       .xff-josefinsans {
         font-family: 'Josefin Sans', sans-serif;
       }
+      table.greyGridTable {
+        width: 100%;
+        text-align: center;
+        border-collapse: collapse;
+      }
+      table.greyGridTable td, table.greyGridTable th {
+        padding: 5px 20px;
+      }
+      table.greyGridTable tbody td {
+        font-size: 1.2rem;
+      }
+      table.greyGridTable thead {
+        border-bottom: 4px solid #333333;
+      }
+      table.greyGridTable thead th {
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        border-left: 2px solid #333333;
+      }
+      table.greyGridTable thead th:first-child {
+        border-left: none;
+      }
+
+      table.greyGridTable td {
+        font-size: 14px;
+        width: 50%;
+      }
     </style>
     <meta charset="utf-8">
     <title>cody.fun</title>
@@ -100,41 +128,103 @@
       </article>
       <article class="bt b--black-10 ph3 ph5-ns pv4 pv5-ns" id="skills">
         <div class="mw9 center tc">
-          <h1 class="xff-josefinsans">Skills</h1>
-          <div class="xff-ptsansnarrow">
-            <h2>Full Stack Web Development</h2>
-            <h3>
-              HTML5<br />
-              Javascript (ECMAScript 6+)<br />
-              CSS3<br />
-              Node.js + Electron<br />
-              jQuery<br />
-              MySQL<br />
-              Firebase<br />
-            </h3>
-            <h2>
-              C# Windows Forms<br />
-              Git - Version Control<br />
-              SSH (Secure Shell)<br />
-              Linux Terminal<br />
-              Powershell & Command Prompt<br />
-              Computer Repair and Building<br />
-              Windows and Linux Management<br />
-              Microsoft Office Specialist<br />
-              Video Editing (Vegas Pro)<br />
-              3D Modeling and Animation (Blender)
-            </h2>
+          <div class="xff-ptsansnarrow f1">
+            <table class="greyGridTable">
+              <thead>
+                <tr>
+                  <th><h1>Skill</h1></th>
+                  <th><h1>Profficiency</h1></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>HTML5</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>CSS3</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 62%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>Javacript (ECMAScript 6+)</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 60%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>Node.js</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>jQuery</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>MySQL</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 78%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>Firebase</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 15%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>C# + Windows Forms</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 70%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>Git Version Control</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 74%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>Terminal (Linux + SSH)</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>Dedicated Server Hosting and Configuration</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 78%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>Computer Repair, Building and Management</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 92%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>Microsoft Office Specialist</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 85%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>Video Editing (Sony Vegas Pro)</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 82%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>Video Editing (Premiere)</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 15%"></div></div></td>
+                </tr>
+                <tr>
+                  <td>3D Modeling and Animation (Blender)</td>
+                  <td><div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 60%"></div></div></td>
+                </tr>
+              </tbody>
+              </table>
           </div>
         </div>
-        <section class="tc bt b--black-10 pv5 mt5 cf" style="background-color: #4285F4;" id="links">
+        <section class="tc bt b--black-10 pv5 mt5 cf" id="certifications">
           <div class="fl-l w-100 w-50-l pr4-ns">
-            
+            <h1 class="xff-josefinsans">Certifications</h1>
+          </div>
+        </section>
+        <section class="tc bt b--black-10 pv5 mt5 cf" id="experience">
+          <div class="fl-l w-100 w-50-l pr4-ns">
+            <h1 class="xff-josefinsans">Experience</h1>
+          </div>
+        </section>
+        <section class="tc bt b--black-10 pv5 mt5 cf" id="links">
+          <div class="fl-l w-100 w-50-l pr4-ns">
+            <h1 class="xff-josefinsans">Links</h1>
           </div>
         </section>
       </article>
     </main>
-    <footer id="contact" class="w-100 bt b--black-10 washed-blue" style="background-color: #4285F4;">
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdDD5ybooJhdN8JjoLPszqZXXVsUC8buIV9er5CS_7e1jLG0A/viewform?embedded=true" height="1200" frameborder="0" marginheight="0" marginwidth="0" onload="this.width=screen.width-15;">Loading...</iframe> 
+    <footer id="contact" class="w-100 bt b--black-10 washed-blue tc bt pv5" style="background-color: #4285F4;">
+        <h1 class="xff-josefinsans">Contact</h1>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdDD5ybooJhdN8JjoLPszqZXXVsUC8buIV9er5CS_7e1jLG0A/viewform?embedded=true" height="1260" frameborder="0" marginheight="0" marginwidth="0" onload="this.width=screen.width-15;">Loading...</iframe>
     </footer>
   </body>
 </html>

@@ -18,27 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Information Security Intern"
+  company = "NASA"
+  company_url = "http://nasa.gov/"
+  location = "Cape Canaveral, Florida"
+  date_start = "2019-06-03"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Data Analyst Intern"
+  company = "Clean Footprint"
+  company_url = "http://www.clean-footprint.com/"
+  location = "Cape Canaveral, Florida"
+  date_start = "2017-11-01"
+  date_end = "2018-01-01"
+  description = """
+  * Developed an optical character recognition scanning application in C# to automatically update returned postage in an SQL database.
+  * Increased productivity of a laborious task.
+
+  https://github.com/xangelix/OCR2SQL
+  """
 
 +++

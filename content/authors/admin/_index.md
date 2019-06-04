@@ -21,10 +21,10 @@ organizations:
 bio: Chasing inspirations...
 
 interests:
-- Information Security
-- Network Architecture
-- Programming
+- Technology
 - Music
+- Chemistry
+- Physics
 
 education:
   courses:

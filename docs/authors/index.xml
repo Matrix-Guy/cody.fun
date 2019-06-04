@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on cody.fun</title>
-    <link>/authors/</link>
+    <link>https://cody.fun/authors/</link>
     <description>Recent content in Authors on cody.fun</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} Cody Neiman</copyright>
     <lastBuildDate>Mon, 03 Jun 2019 21:47:54 -0400</lastBuildDate>
     
-	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://cody.fun/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://cody.fun/authors/admin/</link>
       <pubDate>Mon, 03 Jun 2019 21:47:54 -0400</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>https://cody.fun/authors/admin/</guid>
       <description>&lt;p&gt;Cody Neiman is&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;

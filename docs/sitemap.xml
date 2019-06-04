@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://cody.fun/authors/admin/</loc>
     <lastmod>2019-06-03T21:47:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/a-new-site/</loc>
+    <loc>https://cody.fun/post/a-new-site/</loc>
     <lastmod>2019-06-03T21:47:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-06-03T21:47:54-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-06-03T21:47:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>https://cody.fun/authors/</loc>
     <lastmod>2019-06-03T21:47:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://cody.fun/post/</loc>
+    <lastmod>2019-06-03T21:47:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cody.fun/</loc>
+    <lastmod>2019-06-03T21:47:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://cody.fun/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://cody.fun/publication_types/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://cody.fun/publication/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://cody.fun/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cody.fun/tags/</loc>
     <priority>0</priority>
   </url>
   

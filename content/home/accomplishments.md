@@ -26,7 +26,8 @@ date_format = "Jan 2006"
   certificate_url = "https://www.youracclaim.com/badges/7b5ccb17-eee7-4edc-851a-4a8cc14a0c75/"
   date_start = "2019-05-24"
   date_end = "2022-05-23"
-  description = ""
+  description = """<img src="img/csis.png" alt="CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification"
+	title="CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification" width="150" />"""
 
 [[item]]
   organization = "CompTIA"
@@ -36,7 +37,8 @@ date_format = "Jan 2006"
   certificate_url = "https://www.youracclaim.com/badges/c74833aa-bef7-415b-8294-5105f60f7c93/"
   date_start = "2019-05-23"
   date_end = "2022-05-23"
-  description = ""
+  description = """<img src="img/security+.png" alt="CompTIA Security+ ce Certification"
+	title="CompTIA Security+ ce Certification" width="150" />"""
 
 [[item]]
   organization = "CompTIA"
@@ -46,7 +48,8 @@ date_format = "Jan 2006"
   certificate_url = "https://www.youracclaim.com/badges/5fbdfdb7-4c60-4389-a5c8-48077a90c5e9/"
   date_start = "2019-04-30"
   date_end = "2022-05-23"
-  description = ""
+  description = """<img src="img/cios.png" alt="CompTIA IT Operations Specialist – CIOS Stackable Certification"
+	title="CompTIA IT Operations Specialist – CIOS Stackable Certification" width="150" />"""
   
 [[item]]
   organization = "CompTIA"
@@ -56,7 +59,8 @@ date_format = "Jan 2006"
   certificate_url = "https://www.youracclaim.com/badges/3fade39c-02df-4dad-ab10-e4e72c7a72c3/"
   date_start = "2019-04-29"
   date_end = "2022-05-23"
-  description = ""
+  description = """<img src="img/network+.png" alt="CompTIA Network+ ce Certification"
+	title="CompTIA Network+ ce Certification" width="150" />"""
 
 [[item]]
   organization = "Microsoft"
@@ -66,7 +70,8 @@ date_format = "Jan 2006"
   certificate_url = "https://www.youracclaim.com/badges/67b9e588-82e7-4d74-a5f5-50ab767688f3/"
   date_start = "2018-08-27"
   date_end = ""
-  description = ""
+  description = """<img src="img/mta-networking-fundamentals.png" alt="MTA: Networking Fundamentals"
+	title="MTA: Networking Fundamentals" width="150" />"""
 
 
 [[item]]
@@ -77,6 +82,19 @@ date_format = "Jan 2006"
   certificate_url = "https://www.youracclaim.com/badges/06fcdfc6-e6cb-446c-a9db-f28c883eeddf/"
   date_start = "2018-04-03"
   date_end = "2022-05-23"
-  description = ""
+  description = """<img src="img/a+.png" alt="CompTIA A+ ce Certification"
+	title="CompTIA A+ ce Certification" width="150" />"""
+
+
+[[item]]
+  organization = "Microsoft"
+  organization_url = "https://microsoft.com"
+  title = "Microsoft Office 2013 Specialist"
+  url = "https://www.microsoft.com/en-us/learning/microsoft-office-specialist-certification-2013.aspx"
+  certificate_url = "https://www.youracclaim.com/users/cody-neiman/badges"
+  date_start = "2016-01-01"
+  date_end = ""
+  description = """<img src="img/mos.png" alt="Microsoft Office 2013 Specialist"
+	title="Microsoft Office 2013 Specialist" width="150" />"""
 
 +++

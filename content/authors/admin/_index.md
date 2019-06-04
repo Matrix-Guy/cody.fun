@@ -15,7 +15,7 @@ role: Information Security
 # Organizations/Affiliations
 organizations:
 - name: NASA
-  url: ""
+  url: "https://nasa.gov"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Chasing inspirations...

@@ -14,7 +14,7 @@ role: Information Security
 
 # Organizations/Affiliations
 organizations:
-- name: NASA
+- name: NASA - Kennedy Space Center
   url: "https://nasa.gov"
 
 # Short bio (displayed in user profile at end of posts)

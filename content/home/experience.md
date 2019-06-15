@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Information Security Intern"
-  company = "NASA"
+  company = "NASA - Kennedy Space Center"
   company_url = "http://nasa.gov/"
   location = "Cape Canaveral, Florida"
   date_start = "2019-06-03"

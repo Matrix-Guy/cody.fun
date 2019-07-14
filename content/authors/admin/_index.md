@@ -58,6 +58,13 @@ social:
 - icon: discord
   icon_pack: fab
   link: https://discord.gg/eyBGTRg
+- icon: discord
+  icon_pack: fab
+  link: .well-known/matrix/client
+- icon: discord
+  icon_pack: fab
+  link: .well-known/matrix/server
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv

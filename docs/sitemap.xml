@@ -1,67 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
+  
   <url>
     <loc>https://cody.fun/authors/admin/</loc>
     <lastmod>2019-06-03T21:47:54-04:00</lastmod>
   </url>
-
+  
   <url>
     <loc>https://cody.fun/post/a-new-site/</loc>
     <lastmod>2019-06-03T21:47:54-04:00</lastmod>
   </url>
-
+  
   <url>
     <loc>https://cody.fun/authors/</loc>
     <lastmod>2019-06-03T21:47:54-04:00</lastmod>
     <priority>0</priority>
   </url>
-
+  
   <url>
     <loc>https://cody.fun/post/</loc>
     <lastmod>2019-06-03T21:47:54-04:00</lastmod>
   </url>
-
+  
   <url>
     <loc>https://cody.fun/</loc>
     <lastmod>2019-06-03T21:47:54-04:00</lastmod>
     <priority>0</priority>
   </url>
-
+  
   <url>
     <loc>https://cody.fun/categories/</loc>
     <priority>0</priority>
   </url>
-
+  
   <url>
     <loc>https://cody.fun/publication_types/</loc>
     <priority>0</priority>
   </url>
-
+  
   <url>
     <loc>https://cody.fun/publication/</loc>
   </url>
-
+  
   <url>
     <loc>https://cody.fun/talk/</loc>
   </url>
-
+  
   <url>
     <loc>https://cody.fun/tags/</loc>
     <priority>0</priority>
   </url>
-
-  <url>
-    <loc>https://cody.fun/.well-known/matrix/client</loc>
-    <lastmod>2019-06-05T21:47:54-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-
-  <url>
-    <loc>https://cody.fun/.well-known/matrix/server</loc>
-    <lastmod>2019-06-04T21:47:54-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-
+  
 </urlset>

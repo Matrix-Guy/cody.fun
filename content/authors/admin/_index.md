@@ -48,22 +48,22 @@ social:
   link: 'mailto:cody-neiman@cody.fun'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/cody-neiman/
+  link: in
 - icon: github
   icon_pack: fab
-  link: https://github.com/xangelix
+  link: github
 - icon: project-diagram
   icon_pack: fas
-  link: https://matrix.to/#/@cody-neiman:cody.fun
+  link: matrix
 - icon: discord
   icon_pack: fab
-  link: https://discord.gg/eyBGTRg
+  link: discord
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/CodyNeimanResumeJan2019.pdf
+  link: resume
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

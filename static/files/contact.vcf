@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Cody Wyatt Neiman
+N;CHARSET=UTF-8:Neiman;Cody;Wyatt;Mr.;
+GENDER:M
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:cody-neiman@cody.fun
+TEL;TYPE=CELL:+1 (321) 525-1054
+ADR;CHARSET=UTF-8;TYPE=HOME:;;;Cape Canaveral;FL;;United States
+ROLE;CHARSET=UTF-8:Cybersecurity Expert
+URL;type=WORK;CHARSET=UTF-8:https://cody.fun/
+REV:2019-09-06T16:56:12.828Z
+END:VCARD

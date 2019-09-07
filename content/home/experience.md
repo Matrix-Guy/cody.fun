@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://nasa.gov/"
   location = "Cape Canaveral, Florida"
   date_start = "2019-06-03"
-  date_end = ""
+  date_end = "2019-08-09"
   description = """"""
 
 [[experience]]

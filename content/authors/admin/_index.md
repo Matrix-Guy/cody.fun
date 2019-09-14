@@ -75,8 +75,8 @@ user_groups:
 - Researcher
 ---
 
-*Cody Neiman* is a student of *Cocoa Beach Junior/Senior High School* currently
-working as an *Information Security Intern* at the *Kennedy Space Center (NASA)*
-in *Cape Canaveral, Florida*. He is actively seeking an
-*International Baccalaureate (IB) Diploma* while developing his knowledge on
-*Information Systems* himself.
+*Cody Neiman* is a student of *Cocoa Beach Junior/Senior High School*, previously
+working as an *Information Security Intern* at the *Kennedy Space Center for the
+National Aeronautics and Space Administration (NASA)* in *Cape Canaveral, Florida*.
+He is actively seeking an *International Baccalaureate (IB) Diploma* while
+developing his knowledge on *Information Systems* independently.

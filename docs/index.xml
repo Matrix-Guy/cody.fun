@@ -13,13 +13,30 @@
     
     
     <item>
-      <title>A New Site</title>
-      <link>https://cody.fun/post/a-new-site/</link>
+      <title>Posts</title>
+      <link>https://cody.fun/post/</link>
       <pubDate>Mon, 03 Jun 2019 21:47:54 -0400</pubDate>
       
-      <guid>https://cody.fun/post/a-new-site/</guid>
-      <description>&lt;p&gt;testing&lt;/p&gt;
-</description>
+      <guid>https://cody.fun/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://cody.fun/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cody.fun/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://cody.fun/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cody.fun/talk/</guid>
+      <description></description>
     </item>
     
   </channel>
